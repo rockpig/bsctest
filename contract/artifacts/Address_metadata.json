@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contract/MasterChef.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contract/MasterChef.sol": {
+			"keccak256": "0x02c41ec622244cbd2a559f2c5f670efa31e2bd2f4f0885984d41d4708f4f7ea8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fcc148c9f4f273cd7e6526a81bc602f4dfb1b98754caaa2d5e44df6ac6caba5c",
+				"dweb:/ipfs/QmUL6TUnhcDvnBdvjGpHaJdv2wAvAKmnivKacMZPgL1r6p"
+			]
+		},
+		"contract/Shiro.sol": {
+			"keccak256": "0x283f1ef760964e6f20a580d26374ef36d0e532801130003a2450c00af75bbea6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cf06dc6632b41fa80d012d51cd77fc8399383de0a698bf6bd8c200df994055fc",
+				"dweb:/ipfs/QmYNcEAJ8ngDgoYhwoh9Kkdxzx94RB1rf6fzbrJTdFsVud"
+			]
+		}
+	},
+	"version": 1
+}

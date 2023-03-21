@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.18+commit.87f61d96"
+		"version": "0.6.12+commit.27d51765"
 	},
 	"language": "Solidity",
 	"output": {
@@ -293,9 +293,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"constract/Wenbo.sol": "IBEP20"
+			"contract/Shiro.sol": "IBEP20"
 		},
-		"evmVersion": "paris",
+		"evmVersion": "istanbul",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -307,12 +307,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"constract/Wenbo.sol": {
-			"keccak256": "0x4f042ccc4e32ce79bd4755d2fac1e8b0837c845cc1c44d63946cf3758fc026c0",
+		"contract/Shiro.sol": {
+			"keccak256": "0x283f1ef760964e6f20a580d26374ef36d0e532801130003a2450c00af75bbea6",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a2fe5336e227a8ab6f176c2a17542bf397d1efed6ff8e110c4f3672b1b74b74d",
-				"dweb:/ipfs/QmbpYpTGaz5Lq1SBni7AfqP4JWSARe76SgxrNPRmrrq8zg"
+				"bzz-raw://cf06dc6632b41fa80d012d51cd77fc8399383de0a698bf6bd8c200df994055fc",
+				"dweb:/ipfs/QmYNcEAJ8ngDgoYhwoh9Kkdxzx94RB1rf6fzbrJTdFsVud"
 			]
 		}
 	},
